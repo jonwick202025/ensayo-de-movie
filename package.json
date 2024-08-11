@@ -1,0 +1,11 @@
+{
+  "name": "ensayo-de-movie",
+  "version": "1.0.0",
+  "description": "ensayo movie",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+console.log("API URL = https://jajajaj.com/oooo?api_key=" + API_KEY)
